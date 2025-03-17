@@ -1,7 +1,7 @@
 .holder {
     display: flex;
     flex-wrap: wrap; /* Allows items to wrap to the next row if they don't fit */
-    justify-content: center; /* Centers items horizontally */
+      justify-content: space-between;  /* Centers items horizontally */
     align-items: center; /* Centers items vertically */
     gap: 10px; /* Adds space between items */
 }
